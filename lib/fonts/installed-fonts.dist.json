@@ -78,8 +78,8 @@
         "normal": "DejaVuSerif"
     },
     "meta": {
-        "bold": "meta-pro-bold",
-        "light": "meta-light",
-        "normal": "meta_normal-roman"
+        "bold": "Meta-Bold",
+        "light": "Meta-Light",
+        "normal": "Meta-Roman"
     }
 }

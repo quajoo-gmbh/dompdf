@@ -1,0 +1,20 @@
+{
+    "meta-light": {
+        "normal": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-light",
+        "bold": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-light",
+        "italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-light",
+        "bold_italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-light"
+    },
+    "meta-bold": {
+        "normal": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-bold",
+        "bold": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-bold",
+        "italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-bold",
+        "bold_italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-bold"
+    },
+    "meta-roman": {
+        "normal": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-roman",
+        "bold": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-roman",
+        "italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-roman",
+        "bold_italic": "\/data\/web\/magento2\/vendor\/dompdf\/dompdf\/lib\/fonts\/meta-roman"
+    }
+}
